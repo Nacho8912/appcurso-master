@@ -1,0 +1,17 @@
+[
+  {
+    "userEmail": "nachofl35@gmail.com",
+    "moduleId": "modulo-0",
+    "completedAt": "2026-05-14T19:35:29.168Z"
+  },
+  {
+    "userEmail": "nachofl35@gmail.com",
+    "moduleId": "submodulo-0-1",
+    "completedAt": "2026-05-14T19:35:54.103Z"
+  },
+  {
+    "userEmail": "nachofl35@gmail.com",
+    "moduleId": "submodulo-0-2",
+    "completedAt": "2026-05-14T19:44:34.328Z"
+  }
+]
