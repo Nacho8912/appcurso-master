@@ -134,7 +134,7 @@ export default function StudentDashboard() {
                         AgentesPro
                     </div>
                     <div className="text-[10px] font-black uppercase tracking-widest text-indigo-400 mt-1">
-                        Master IA Agentica
+                        Master IA Agéntica
                     </div>
                 </div>
 
@@ -149,7 +149,7 @@ export default function StudentDashboard() {
                     </Link>
                     <Link href="/ruta" className="flex items-center gap-3 px-4 py-3 rounded-xl hover:bg-white/5 text-slate-400 hover:text-white transition-colors">
                         <Map className="w-5 h-5" />
-                        <span className="text-sm font-bold">Ruta del Master</span>
+                        <span className="text-sm font-bold">Ruta del Máster</span>
                     </Link>
                     
                     {/* Lecciones - Collapsible */}
